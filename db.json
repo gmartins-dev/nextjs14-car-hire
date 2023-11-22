@@ -1,0 +1,74 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Corolla",
+      "category": "Sedan",
+      "available": true,
+      "image": "https://m.atcdn.co.uk/vms/media/f86eac53a13544de9f569bcec7746811.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Honda CR-V",
+      "category": "SUV",
+      "available": false,
+      "image": "https://m.atcdn.co.uk/vms/media/b37aaf54756c44abb7bcc53870a7f4cc.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ford F-150",
+      "category": "Pickup",
+      "available": true,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "Chevrolet Equinox",
+      "category": "SUV",
+      "available": false,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Toyota Camry",
+      "category": "Sedan",
+      "available": true,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "name": "Honda Civic",
+      "category": "Sedan",
+      "available": false,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "name": "Jeep Wrangler",
+      "category": "SUV",
+      "available": true,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 8,
+      "name": "Ford Escape",
+      "category": "SUV",
+      "available": false,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 9,
+      "name": "Chevrolet Silverado",
+      "category": "Pickup",
+      "available": true,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 10,
+      "name": "Toyota RAV4",
+      "category": "SUV",
+      "available": false,
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
