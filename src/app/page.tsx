@@ -7,12 +7,12 @@ export default function Home() {
       <div className="flex flex-row w-full h-full">
         <div className="flex items-center justify-center w-1/2">
           <Link href="/users/register">
-            <Button bgColor="bg-blue-700">User Register</Button>
+            <Button bgColor="bg-blue-600 hover:bg-blue-700 transition-colors duration-200">👤 User Registration</Button>
           </Link>
         </div>
         <div className="flex items-center justify-center w-1/2">
           <Link href="/cars/available">
-            <Button bgColor="bg-cyan-700">Available Cars</Button>
+            <Button bgColor="bg-green-500 hover:bg-green-600 transition-colors duration-200">🚗 Available Cars</Button>
           </Link>
         </div>
       </div>

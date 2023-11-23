@@ -41,7 +41,6 @@ export default function RegisterUserForm() {
       ...formData
     };
     setSubmittedData(JSON.stringify(dataWithId));
-    console.log(dataWithId);
   };
 
   return (
