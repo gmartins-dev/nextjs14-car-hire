@@ -5,70 +5,221 @@
       "name": "Toyota Corolla",
       "category": "Sedan",
       "available": true,
-      "image": "https://m.atcdn.co.uk/vms/media/f86eac53a13544de9f569bcec7746811.jpg"
+      "image": "https://m.atcdn.co.uk/vms/media/f86eac53a13544de9f569bcec7746811.jpg",
+      "color": "Blue",
+      "year": 2020,
+      "miles": 15000,
+      "price": 100,
+      "transmission": "Automatic"
     },
     {
       "id": 2,
       "name": "Honda CR-V",
       "category": "SUV",
-      "available": false,
-      "image": "https://m.atcdn.co.uk/vms/media/b37aaf54756c44abb7bcc53870a7f4cc.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Ford F-150",
-      "category": "Pickup",
       "available": true,
-      "image": "https://via.placeholder.com/150"
+      "image": "https://m.atcdn.co.uk/vms/media/b37aaf54756c44abb7bcc53870a7f4cc.jpg",
+      "color": "Red",
+      "year": 2021,
+      "miles": 5000,
+      "price": 200,
+      "transmission": "Automatic"
     },
-    {
-      "id": 4,
-      "name": "Chevrolet Equinox",
-      "category": "SUV",
-      "available": false,
-      "image": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 5,
-      "name": "Toyota Camry",
-      "category": "Sedan",
-      "available": true,
-      "image": "https://via.placeholder.com/150"
-    },
+    @workspace in db.json dont change the current data, just add the new properties
     {
       "id": 6,
       "name": "Honda Civic",
       "category": "Sedan",
-      "available": false,
-      "image": "https://via.placeholder.com/150"
+      "available": true,
+      "image": "https://m.atcdn.co.uk/a/media/w600h450/1caea529b61647edac83b935ea97e698.jpg"
     },
     {
       "id": 7,
       "name": "Jeep Wrangler",
       "category": "SUV",
       "available": true,
-      "image": "https://via.placeholder.com/150"
+      "image": "https://m.atcdn.co.uk/a/media/%7Bresize%7D/ed3dc42ce8754d1d9b9e9759bf3bbcf1.jpg",
+      "color": "Red",
+      "year": 2021,
+      "miles": 5000,
+      "price": 200,
+      "transmission": "Automatic"
     },
     {
       "id": 8,
       "name": "Ford Escape",
       "category": "SUV",
-      "available": false,
-      "image": "https://via.placeholder.com/150"
+      "available": true,
+      "image": "https://m.atcdn.co.uk/vms/media/w320/2a397b06127747d4b8f1e74f18e8009d.jpg",
+      "color": "Blue",
+      "year": 2020,
+      "miles": 15000,
+      "price": 150,
+      "transmission": "Automatic"
     },
     {
       "id": 9,
       "name": "Chevrolet Silverado",
       "category": "Pickup",
       "available": true,
-      "image": "https://via.placeholder.com/150"
+      "image": "https://m.atcdn.co.uk/a/media/%7Bresize%7D/33640cf265e1404ea339caec2660ce44.jpg",
+      "color": "Black",
+      "year": 2019,
+      "miles": 20000,
+      "price": 100,
+      "transmission": "Automatic"
     },
     {
       "id": 10,
       "name": "Toyota RAV4",
       "category": "SUV",
+      "available": true,
+      "image": "https://m.atcdn.co.uk/a/media/%7Bresize%7D/0932f9e36b3246b8a1eb76c31b3142ff.jpg",
+      "color": "White",
+      "year": 2021,
+      "miles": 10000,
+      "price": 180,
+      "transmission": "Automatic"
+    },
+    {
+      "id": 16,
+      "name": "Hyundai Sonata",
+      "category": "Sedan",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "Silver",
+      "year": 2020,
+      "miles": 15000,
+      "price": 110,
+      "transmission": "Automatic"
+    },
+    {
+      "id": 17,
+      "name": "Kia Sorento",
+      "category": "SUV",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "White",
+      "year": 2021,
+      "miles": 10000,
+      "price": 180,
+      "transmission": "Automatic"
+    },
+    {
+      "id": 18,
+      "name": "Ford Mustang",
+      "category": "Sports",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "Red",
+      "year": 2020,
+      "miles": 5000,
+      "price": 200,
+      "transmission": "Manual"
+    },
+    {
+      "id": 19,
+      "name": "Chevrolet Camaro",
+      "category": "Sports",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "Yellow",
+      "year": 2019,
+      "miles": 15000,
+      "price": 190,
+      "transmission": "Manual"
+    },
+    {
+      "id": 20,
+      "name": "Toyota Highlander",
+      "category": "SUV",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "Blue",
+      "year": 2021,
+      "miles": 10000,
+      "price": 130,
+      "transmission": "Automatic"
+    },
+    {
+      "id": 13,
+      "name": "Nissan Altima",
+      "category": "Sedan",
       "available": false,
       "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 14,
+      "name": "Hyundai Elantra",
+      "category": "Compact",
+      "available": false,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 15,
+      "name": "Dodge Charger",
+      "category": "Sports",
+      "available": false,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 16,
+      "name": "Hyundai Sonata",
+      "category": "Sedan",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "Silver",
+      "year": 2020,
+      "miles": 15000,
+      "price": 110,
+      "transmission": "Automatic"
+    },
+    {
+      "id": 17,
+      "name": "Kia Sorento",
+      "category": "SUV",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "White",
+      "year": 2021,
+      "miles": 10000,
+      "price": 180,
+      "transmission": "Automatic"
+    },
+    {
+      "id": 18,
+      "name": "Ford Mustang",
+      "category": "Sports",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "Red",
+      "year": 2020,
+      "miles": 5000,
+      "price": 200,
+      "transmission": "Manual"
+    },
+    {
+      "id": 19,
+      "name": "Chevrolet Camaro",
+      "category": "Sports",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "Yellow",
+      "year": 2019,
+      "miles": 15000,
+      "price": 190,
+      "transmission": "Manual"
+    },
+    {
+      "id": 20,
+      "name": "Toyota Highlander",
+      "category": "SUV",
+      "available": true,
+      "image": "https://via.placeholder.com/150",
+      "color": "Blue",
+      "year": 2021,
+      "miles": 10000,
+      "price": 130,
+      "transmission": "Automatic"
     }
   ]
 }

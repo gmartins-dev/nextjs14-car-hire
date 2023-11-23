@@ -1,17 +1,7 @@
 'use client'
 import { getCars } from '@/services/CarsService';
 import { useEffect, useState } from 'react';
-import Card from './CarCard';
-
-
-
-export interface Car {
-  id: number;
-  name: string;
-  category: string;
-  available: boolean;
-  image?: string;
-};
+import Card, { Car } from './CarCard';
 
 export default function CarsList() {
 
@@ -29,10 +19,12 @@ export default function CarsList() {
   }
 
   return (
-    <section className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-    {cars.filter(car => car.available).map((car: Car) => (
-      <Card key={car.id} car={car} />
-    ))}
-  </section>
+    <div className="flex flex-col items-center justify-center w-full max-w-7xl mx-auto h-full m-4">
+      <section className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4">
+        {cars.filter(car => car.available).map((car: Car) => (
+          <Card key={car.id} car={car} />
+        ))}
+      </section>
+    </div>
   );
 }
