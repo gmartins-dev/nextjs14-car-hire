@@ -10,7 +10,7 @@
 
 <h1  align="center">
 
-🖥 Car Hire Booking System - Next.js + TailwindCSS 📱
+🖥 Car Hire Booking System - Next.js v14 📱
 
 </h1>
 
@@ -79,7 +79,6 @@ This project was developed with the following technologies:
 <kbd>
 <img width="600" style="border-radius: 5px" height="100%" src="public/previews/mobile-form.png" alt="">
 </kbd>
-</p>
 <img width="600" style="border-radius: 5px" height="100%" src="public/previews/mobile-cars.png" alt="">
 </kbd>
 </p>
