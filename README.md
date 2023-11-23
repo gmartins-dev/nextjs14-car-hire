@@ -68,7 +68,7 @@ This project was developed with the following technologies:
 <img width="100%" style="border-radius: 5px" height="70%" src="public/previews/desktop-form.png" alt="">
 </kbd>
 </p>
-<img width="100%" style="border-radius: 5px" height="70%" src="public/previews/desktop-cars" alt="">
+<img width="100%" style="border-radius: 5px" height="70%" src="public/previews/desktop-cars.png" alt="">
 </kbd>
 </p>
   <h5 align="center">📱 Mobile:</h5>
@@ -129,7 +129,7 @@ $ yarn run json-server or npm run json-server or pnpm run json-server (recommend
 6. Organize the TS interfaces and types in a separate folder/files
 
 7. Implement tests:
-   
+
   7.1 unit tests
 
   7.2 integration tests
