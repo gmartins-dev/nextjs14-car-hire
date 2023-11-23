@@ -62,25 +62,25 @@ This project was developed with the following technologies:
 <p  align="center">
   <h5 align="center">🖥 Desktop:</h5>
   <kbd>
-<img width="100%" style="border-radius: 5px" height="70%" src="public/preview/desktop-index.png" alt="">
+<img width="100%" style="border-radius: 5px" height="70%" src="public/previews/desktop-index.png" alt="">
 </kbd>
   <kbd>
-<img width="100%" style="border-radius: 5px" height="70%" src="public/preview/desktop-form.png" alt="">
+<img width="100%" style="border-radius: 5px" height="70%" src="public/previews/desktop-form.png" alt="">
 </kbd>
 </p>
-<img width="100%" style="border-radius: 5px" height="70%" src="public/preview/desktop-cars" alt="">
+<img width="100%" style="border-radius: 5px" height="70%" src="public/previews/desktop-cars" alt="">
 </kbd>
 </p>
   <h5 align="center">📱 Mobile:</h5>
 <p  align="center">
 <kbd>
-<img width="600" style="border-radius: 5px" height="100%" src="public/preview/mobile-index.png" alt="">
+<img width="600" style="border-radius: 5px" height="100%" src="public/previews/mobile-index.png" alt="">
 </kbd>
 <kbd>
-<img width="600" style="border-radius: 5px" height="100%" src="public/preview/mobile-form.png" alt="">
+<img width="600" style="border-radius: 5px" height="100%" src="public/previews/mobile-form.png" alt="">
 </kbd>
 </p>
-<img width="600" style="border-radius: 5px" height="100%" src="public/preview/mobile-cars.png" alt="">
+<img width="600" style="border-radius: 5px" height="100%" src="public/previews/mobile-cars.png" alt="">
 </kbd>
 </p>
 
@@ -110,28 +110,31 @@ $ yarn run json-server or npm run json-server or pnpm run json-server (recommend
 
 
 
-1. Set a design system and better stylling
+1. Set a design system and better styling
 
 2. Add dark/light themes
 
 3. Forms:
 
-3.1 define what field are required or optional
+  3.1 define what fields are required or optional
 
-3.2 use masks and validations
+  3.2 use masks and validations
 
-3.3 use a third library like:  Formik or React Hook Forms
+  3.3 use a third library like:  Formik or React Hook Forms
 
 4. Create a modal: when click in a car card shows the car details modal
 
 5. Add more filtering options and a search bar
 
-6. Organize the TS interfaces and types in a separated folder/files
+6. Organize the TS interfaces and types in a separate folder/files
 
 7. Implement tests:
-7.1 unit tests
-7.2 integration tests
-7.3 end-to-end test
+   
+  7.1 unit tests
+
+  7.2 integration tests
+
+  7.3 end-to-end test
 
 
 
