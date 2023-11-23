@@ -7,7 +7,7 @@ export default function Home() {
       <div className="flex flex-row w-full h-full">
         <div className="flex items-center justify-center w-1/2">
           <Link href="/users/register">
-            <Button bgColor="bg-blue-700">Register Vehicle</Button>
+            <Button bgColor="bg-blue-700">User Register</Button>
           </Link>
         </div>
         <div className="flex items-center justify-center w-1/2">

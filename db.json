@@ -10,7 +10,8 @@
       "year": 2020,
       "miles": 15000,
       "price": 100,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "year": 2021,
       "miles": 5000,
       "price": 200,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "year": 2021,
       "miles": 5000,
       "price": 200,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "year": 2020,
       "miles": 15000,
       "price": 150,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
       "year": 2019,
       "miles": 20000,
       "price": 100,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 7,
@@ -70,7 +75,8 @@
       "year": 2021,
       "miles": 5000,
       "price": 200,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 8,
@@ -82,7 +88,8 @@
       "year": 2020,
       "miles": 15000,
       "price": 150,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 9,
@@ -94,7 +101,8 @@
       "year": 2019,
       "miles": 20000,
       "price": 100,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 10,
@@ -106,7 +114,8 @@
       "year": 2021,
       "miles": 10000,
       "price": 180,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 11,
@@ -118,7 +127,8 @@
       "year": 2020,
       "miles": 15000,
       "price": 110,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 12,
@@ -130,7 +140,8 @@
       "year": 2021,
       "miles": 10000,
       "price": 180,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 13,
@@ -142,7 +153,8 @@
       "year": 2020,
       "miles": 5000,
       "price": 200,
-      "transmission": "Manual"
+      "transmission": "Manual",
+      "plate": "ABC-123"
     },
     {
       "id": 14,
@@ -154,7 +166,8 @@
       "year": 2019,
       "miles": 15000,
       "price": 190,
-      "transmission": "Manual"
+      "transmission": "Manual",
+      "plate": "ABC-123"
     },
     {
       "id": 15,
@@ -166,7 +179,8 @@
       "year": 2021,
       "miles": 10000,
       "price": 130,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 16,
@@ -178,7 +192,8 @@
       "year": 2020,
       "miles": 15000,
       "price": 110,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 17,
@@ -190,7 +205,8 @@
       "year": 2021,
       "miles": 10000,
       "price": 180,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 18,
@@ -202,7 +218,8 @@
       "year": 2020,
       "miles": 5000,
       "price": 200,
-      "transmission": "Manual"
+      "transmission": "Manual",
+      "plate": "ABC-123"
     },
     {
       "id": 19,
@@ -214,7 +231,8 @@
       "year": 2019,
       "miles": 15000,
       "price": 190,
-      "transmission": "Manual"
+      "transmission": "Manual",
+      "plate": "ABC-123"
     },
     {
       "id": 20,
@@ -226,7 +244,8 @@
       "year": 2021,
       "miles": 10000,
       "price": 130,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 13,
@@ -259,7 +278,8 @@
       "year": 2020,
       "miles": 15000,
       "price": 110,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 17,
@@ -271,7 +291,8 @@
       "year": 2021,
       "miles": 10000,
       "price": 180,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     },
     {
       "id": 18,
@@ -283,7 +304,8 @@
       "year": 2020,
       "miles": 5000,
       "price": 200,
-      "transmission": "Manual"
+      "transmission": "Manual",
+      "plate": "ABC-123"
     },
     {
       "id": 19,
@@ -295,7 +317,8 @@
       "year": 2019,
       "miles": 15000,
       "price": 190,
-      "transmission": "Manual"
+      "transmission": "Manual",
+      "plate": "ABC-123"
     },
     {
       "id": 20,
@@ -307,7 +330,8 @@
       "year": 2021,
       "miles": 10000,
       "price": 130,
-      "transmission": "Automatic"
+      "transmission": "Automatic",
+      "plate": "ABC-123"
     }
   ]
 }

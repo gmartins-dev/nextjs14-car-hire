@@ -1,8 +1,15 @@
-export default function RegisterVehicle() {
+'use client'
+
+import { FormDataProvider } from '@/app/contexts/FormDataContext';
+import DisplaySubmittedData from '@/components/DisplaySubmittedData';
+import RegisterUserForm from '@/components/RegisterUserForm';
+
+export default function RegisterPage() {
+
   return (
-    <div>
-      <h1>Register Vehicle</h1>
-      {/* Add your form here */}
-    </div>
+    <FormDataProvider>
+      <RegisterUserForm />
+      <DisplaySubmittedData />
+    </FormDataProvider>
   );
 }
