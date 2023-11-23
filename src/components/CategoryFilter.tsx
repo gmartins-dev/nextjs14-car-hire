@@ -9,8 +9,8 @@ interface CategoryFilterProps {
 
 export default function CategoryFilter({ category, setCategory }: CategoryFilterProps) {
   return (
-    <div className="flex items-center space-x-2 ml-auto mr-4 mt-6">
-      <span className="text-md font-semibold text-gray-700">Select your car category:</span>
+    <div className="flex items-center space-x-2 ml-auto mr-4">
+      <span className="text-md font-semibold text-gray-700 sm:inline-block hidden">Select your car category:</span>
       <select
         value={category}
         onChange={(e: ChangeEvent<HTMLSelectElement>) => {
