@@ -1,36 +1,167 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+<div  align="center">
+
+<img  alt="Guilherme Martins - Frontend Developer"  src="https://images2.imgbox.com/ae/e8/W7QmciDO_o.png" width="40%"  />
+
+</div>
+
+
+
+<h1  align="center">
+
+🖥 Car Hire Booking System - Next.js + TailwindCSS 📱
+
+</h1>
+
+
+
+
+
+## 🗃 Project
+
+This project is a web application built with TypeScript, React, and json-server. It's designed to provide a robust and scalable solution for modern web development needs.
+
+The application leverages TypeScript for static typing, which enhances code quality and understandability. React, a popular JavaScript library, is used for building the user interface in a declarative style, making the code more predictable and easier to debug.
+
+The backend is powered by json-server, a simple tool that lets you set up a full fake REST API for development and prototyping.
+
+The combination of these technologies provides a solid foundation for building complex web applications, and offers a great starting point for projects that require a quick setup with robust features.
+
+</br>
+
+
+
+## 🛠 Technologies
+
+This project was developed with the following technologies:
+
+  <img  align="center"  alt="JavaScript"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> **JavaScript**
+
+  <img  align="center"  alt="Ts"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> **TypeScript**
+
+  <img  align="center"  alt="React"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React**
+
+  <img  align="center"  alt="Next.js"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> **Next.js**
+
+  <img  align="center"  alt="React"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React**
+
+  <img  align="center"  alt="TailwindCSS"  height="30"  width="30"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"> **TailwindCSS**
+
+
+
+</br>
+
+
+## 💻 Demonstration
+
+
+<h5 align="center"> 🔗 Online: https://nextjs14-car-hire.vercel.app</h5>
+
+</br>
+<p  align="center">
+  <h5 align="center">🖥 Desktop:</h5>
+  <kbd>
+<img width="100%" style="border-radius: 5px" height="70%" src="https://images2.imgbox.com/ea/f3/zgUClKRw_o.png" alt="">
+</kbd>
+  <kbd>
+<img width="100%" style="border-radius: 5px" height="70%" src="https://images2.imgbox.com/5f/63/iHu17poW_o.png" alt="">
+</kbd>
+</p>
+<img width="100%" style="border-radius: 5px" height="70%" src="https://images2.imgbox.com/5f/52/d3pB7e2g_o.png" alt="">
+</kbd>
+</p>
+  <h5 align="center">📱 Mobile:</h5>
+<p  align="center">
+<kbd>
+<img width="600" style="border-radius: 5px" height="100%" src="https://images2.imgbox.com/52/2b/3MgGZzNT_o.png" alt="">
+</kbd>
+<kbd>
+<img width="600" style="border-radius: 5px" height="100%" src="https://images2.imgbox.com/40/c1/ngmsyRWt_o.png" alt="">
+</kbd>
+</p>
+<img width="600" style="border-radius: 5px" height="100%" src="https://images2.imgbox.com/af/68/pMYKZp3z_o.png" alt="">
+</kbd>
+</p>
+
+</br>
+
+## 🚀 How to run
+
+If you want to run the project on your local machine, just follow the steps below:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+$ git clone https://github.com/gmartins-dev/nextjs14-car-hire
+
+# Install the dependencies
+
+$ yarn install or npm install or pnpm install (recommended)
+
+# Run FE
+
+$ yarn run dev or npm run dev or pnpm run dev (recommended)
+
+# Run BE (mock json-server)
+
+$ yarn run json-server or npm run json-server or pnpm run json-server (recommended)
+
 ```
+## 🛠 Possible improvements and new features:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Set a design system and better stylling
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2. Add dark/light themes
 
-## Learn More
+3. Forms: 
+	3.1 define what field are required or optional
+	3.2 use masks and validations
+	3.3 use a third library like:  Formik or React Hook Forms 
 
-To learn more about Next.js, take a look at the following resources:
+4. Create a modal: when click in a car card shows the car details modal
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Add more filtering options and a search bar
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+6. Organize the TS interfaces and types in a separated folder/files
 
-## Deploy on Vercel
+7. Implement tests:
+	7.1 unit tests
+	7.2 integration tests
+	7.3 end-to-end test
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+</br>
+
+## 📝 License
+
+
+
+This project is licensed under the MIT license.
+
+
+
+<img src="https://img.shields.io/badge/license-MIT-success"/>
+
+</p>
+
+
+
+</br>
+<hr/>
+</br>
+
+
+
+
+<h3> Guilherme Martins - @gmartins-dev </h3>
+
+- Portfolio: https://gmartins.dev
+
+- LinkedIn: https://www.linkedin.com/in/gmartins-dev
+
+- GitHub: https://github.com/gmartins-dev
+
+- Email: contact@gmartins.dev
+
