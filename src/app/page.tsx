@@ -1,3 +1,4 @@
+import Button from '@/components/Button';
 import Link from 'next/link';
 
 export default function Home() {
@@ -6,12 +7,12 @@ export default function Home() {
       <div className="flex flex-row w-full h-full">
         <div className="flex items-center justify-center w-1/2">
           <Link href="/users/register">
-            <button className="p-4 m-4 bg-blue-700 text-white rounded-lg font-bold text-xl">Register Vehicle</button>
+            <Button bgColor="bg-blue-700">Register Vehicle</Button>
           </Link>
         </div>
         <div className="flex items-center justify-center w-1/2">
           <Link href="/cars/available">
-            <button className="p-4 m-4  bg-cyan-700 text-white rounded-lg font-bold text-xl">Available Cars</button>
+            <Button bgColor="bg-cyan-700">Available Cars</Button>
           </Link>
         </div>
       </div>
