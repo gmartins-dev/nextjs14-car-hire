@@ -44,8 +44,6 @@ This project was developed with the following technologies:
 
   <img  align="center"  alt="Next.js"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> **Next.js**
 
-  <img  align="center"  alt="React"  height="30"  width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> **React**
-
   <img  align="center"  alt="TailwindCSS"  height="30"  width="30"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"> **TailwindCSS**
 
 
